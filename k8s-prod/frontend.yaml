@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: agodzo/frontend:6e4fe160fe87f3cdf76ba969ef04575aad503fa5
+          image: agodzo/frontend:aa79b503978061f26fdb0f8a31acd9ad230140c1
           ports:
             - containerPort: 80
 ---

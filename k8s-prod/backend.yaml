@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: agodzo/backend:6e4fe160fe87f3cdf76ba969ef04575aad503fa5
+          image: agodzo/backend:aa79b503978061f26fdb0f8a31acd9ad230140c1
           ports:
             - containerPort: 5000
           env:
